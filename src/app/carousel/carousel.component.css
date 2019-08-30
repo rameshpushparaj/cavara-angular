@@ -1,0 +1,19 @@
+.carousel-item {
+  height: 450px;
+}
+
+.carousel-image-1 {
+  background: url("https://source.unsplash.com/YSxcf6C_SEg/1920x900");
+
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url("https://source.unsplash.com/HtBlQdxfG9k/1920x900");
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url("https://source.unsplash.com/3coKbdfnAFg/1920x900");
+  background-size: cover;
+}
