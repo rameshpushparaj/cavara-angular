@@ -10,6 +10,12 @@ export class CarouselComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+	  // Configure Slider
+      $(".carousel").carousel({
+        interval: 2000,
+        pause: "hover"
+      });
+
   }
 
 }
